@@ -9,6 +9,7 @@
       "CourseAdmApi.Test/1.0.0": {
         "dependencies": {
           "CourseAdmApi": "1.0.0",
+          "Microsoft.AspNetCore.OpenApi": "7.0.0",
           "Microsoft.NET.Test.Sdk": "17.3.2",
           "coverlet.collector": "3.1.2",
           "xunit": "2.4.2",

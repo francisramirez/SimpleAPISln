@@ -6575,6 +6575,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "CourseAdmApi >= 1.0.0",
+      "Microsoft.AspNetCore.OpenApi >= 7.0.0",
       "Microsoft.NET.Test.Sdk >= 17.3.2",
       "coverlet.collector >= 3.1.2",
       "xunit >= 2.4.2",
@@ -6630,6 +6631,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[17.3.2, )"
