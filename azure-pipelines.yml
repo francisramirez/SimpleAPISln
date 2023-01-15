@@ -14,7 +14,7 @@ variables:
 
 steps:
 
-- task: DotNetCore@7
+- task: dotnet
   inputs: 
     command: test
     projects: '**/*Test/*.csproj'
