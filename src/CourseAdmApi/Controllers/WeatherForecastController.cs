@@ -30,6 +30,6 @@ public class WeatherForecastController : ControllerBase
     [HttpGet(Name ="GetMyName")]
     public ActionResult<string> GetMyName(string name)
     {
-        return "Juan Perez";
+        return "Francis Ramirez";
     }
 }
