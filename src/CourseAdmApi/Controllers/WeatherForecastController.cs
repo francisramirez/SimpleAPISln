@@ -8,7 +8,7 @@ public class WeatherForecastController : ControllerBase
 {
     private static readonly string[] Summaries = new[]
     {
-        "Freezing test", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy Test 7", "Hot Test 6", "Sweltering Test 5", "Scorching Test 3"
+        "Freezing test 1" , "Bracing test 2", "Chilly test 3", "Cool", "Mild", "Warm", "Balmy Test 7", "Hot Test 6", "Sweltering Test 5", "Scorching Test 3"
     };
 
     public WeatherForecastController()
