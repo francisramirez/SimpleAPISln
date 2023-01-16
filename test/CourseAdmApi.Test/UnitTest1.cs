@@ -10,7 +10,7 @@ public class UnitTest1
    public void GetMyName()
    {
        string name = "Francis Ramirez";
-       var returnValue = this.weatherForecastController.GetMyName(name).Value;
+       var returnValue = this.weatherForecastController.GetMyName().Value;
        Assert.Equal(name,returnValue);
 
    }

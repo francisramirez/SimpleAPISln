@@ -27,8 +27,9 @@ public class WeatherForecastController : ControllerBase
         })
         .ToArray();
     }
-    [HttpGet(Name ="GetMyName")]
-    public ActionResult<string> GetMyName(string name)
+    [HttpGet("GetMyName")]
+
+    public ActionResult<string> GetMyName()
     {
         return "Francis Ramirez";
     }
