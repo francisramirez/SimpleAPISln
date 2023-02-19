@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseAdmApi.Test
-build_property.ProjectDir = C:\Courses\SimpleAPISln\test\CourseAdmApi.Test\
+build_property.ProjectDir = c:\Courses\SimpleAPISln\test\CourseAdmApi.Test\

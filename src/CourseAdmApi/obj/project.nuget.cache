@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ijWr1sJDVC6Wn1Hj1uu62yf2Wyv7p36wqGVT/SHqN0BZ0vWfdtu5ph6xcUVtLaRC+7XH/0PezqOU4Xq7/7xjLQ==",
+  "dgSpecHash": "EK9aHwCy7HLy7T66bH7Q8x9JxpGXsyC15AkAA2Fo7k0X2uSg818gDFWNaFpY379Z+XnsZzUw07iATM0nkdqA3Q==",
   "success": true,
-  "projectFilePath": "C:\\Courses\\SimpleAPISln\\src\\CourseAdmApi\\CourseAdmApi.csproj",
+  "projectFilePath": "c:\\Courses\\SimpleAPISln\\src\\CourseAdmApi\\CourseAdmApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francis Ramirez\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\Francis Ramirez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

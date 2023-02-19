@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJZ0H8G61qX0SnizwYAldNYjhhXzsAlW8B6iHVPvSJBBTwEL3k5FlmpaXSNcXFJijRq1IAYuRVThtCr38FMIAw==",
+  "dgSpecHash": "abDkJ3OAOtH3cIlTmL05LKGAmFjZ02JKTxsyK53eEks9wCx5GCx9Qu0spHi77wrbj/X1NEP2t3RPpaTSmJsu8A==",
   "success": true,
-  "projectFilePath": "C:\\Courses\\SimpleAPISln\\test\\CourseAdmApi.Test\\CourseAdmApi.Test.csproj",
+  "projectFilePath": "c:\\Courses\\SimpleAPISln\\test\\CourseAdmApi.Test\\CourseAdmApi.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francis Ramirez\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Francis Ramirez\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
